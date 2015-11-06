@@ -1,0 +1,477 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CD2C698F1B5A72E600C2170B /* BXAS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD2C698E1B5A72E600C2170B /* BXAS.pdf */; };
+		CD53A4481B5CF340004FBC2C /* MCSS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD53A4461B5CF340004FBC2C /* MCSS.pdf */; };
+		CD53A4491B5CF340004FBC2C /* Untitled.png in Resources */ = {isa = PBXBuildFile; fileRef = CD53A4471B5CF340004FBC2C /* Untitled.png */; };
+		CD53A44C1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD53A44A1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Info.plist */; };
+		CD53A4541B5CF57F004FBC2C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD53A4531B5CF57F004FBC2C /* main.m */; };
+		CD53A45C1B5CF80B004FBC2C /* CMUPreview Mac EditionTests in Resources */ = {isa = PBXBuildFile; fileRef = CD53A45B1B5CF80A004FBC2C /* CMUPreview Mac EditionTests */; };
+		CD53A45F1B5CF88C004FBC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD53A45D1B5CF88C004FBC2C /* InfoPlist.strings */; };
+		CD53A4611B5CF8B8004FBC2C /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = CD53A4601B5CF8B8004FBC2C /* Credits.rtf */; };
+		CD91C10C1B350295008C2650 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD91C10B1B350295008C2650 /* Cocoa.framework */; };
+		CD91C11F1B350297008C2650 /* CMUAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CD91C11E1B350297008C2650 /* CMUAppDelegate.m */; };
+		CD91C1221B350297008C2650 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD91C1201B350297008C2650 /* MainMenu.xib */; };
+		CD91C12A1B350298008C2650 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD91C1291B350298008C2650 /* SenTestingKit.framework */; };
+		CD91C12B1B350298008C2650 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD91C10B1B350295008C2650 /* Cocoa.framework */; };
+		CDA1EAE41B5720A80016196C /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDA1EAE31B5720A80016196C /* Quartz.framework */; };
+		CDA1EAE81B578ED30016196C /* CITS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EAE71B578ED30016196C /* CITS.pdf */; };
+		CDA1EAEA1B58C5400016196C /* CMUG.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EAE91B58C5400016196C /* CMUG.pdf */; };
+		CDA1EB4E1B5A30500016196C /* ArchS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB451B5A30500016196C /* ArchS.pdf */; };
+		CDA1EB4F1B5A30500016196C /* ArtS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB461B5A30500016196C /* ArtS.pdf */; };
+		CDA1EB501B5A30500016196C /* TEPS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB471B5A30500016196C /* TEPS.pdf */; };
+		CDA1EB511B5A30500016196C /* ISS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB481B5A30500016196C /* ISS.pdf */; };
+		CDA1EB521B5A30500016196C /* DesignS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB491B5A30500016196C /* DesignS.pdf */; };
+		CDA1EB531B5A30500016196C /* MusicS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB4A1B5A30500016196C /* MusicS.pdf */; };
+		CDA1EB541B5A30500016196C /* DramS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB4B1B5A30500016196C /* DramS.pdf */; };
+		CDA1EB551B5A30500016196C /* SCSS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB4C1B5A30500016196C /* SCSS.pdf */; };
+		CDA1EB561B5A30500016196C /* DCS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB4D1B5A30500016196C /* DCS.pdf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CD91C12C1B350298008C2650 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CD91C0FE1B350294008C2650 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CD91C1061B350295008C2650;
+			remoteInfo = "CMUPreview Mac Edition";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CD2C698E1B5A72E600C2170B /* BXAS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = BXAS.pdf; sourceTree = "<group>"; };
+		CD53A4461B5CF340004FBC2C /* MCSS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = MCSS.pdf; sourceTree = "<group>"; };
+		CD53A4471B5CF340004FBC2C /* Untitled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Untitled.png; sourceTree = "<group>"; };
+		CD53A44A1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CMUPreview Mac Edition-Info.plist"; sourceTree = "<group>"; };
+		CD53A44B1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CMUPreview Mac Edition-Prefix.pch"; sourceTree = "<group>"; };
+		CD53A4531B5CF57F004FBC2C /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CD53A45B1B5CF80A004FBC2C /* CMUPreview Mac EditionTests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CMUPreview Mac EditionTests"; sourceTree = "<group>"; };
+		CD53A45E1B5CF88C004FBC2C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD53A4601B5CF8B8004FBC2C /* Credits.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Credits.rtf; sourceTree = "<group>"; };
+		CD91C1071B350295008C2650 /* CMUPreview Mac Edition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CMUPreview Mac Edition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD91C10B1B350295008C2650 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		CD91C10E1B350295008C2650 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		CD91C10F1B350295008C2650 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		CD91C1101B350295008C2650 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		CD91C1131B350295008C2650 /* CMUPreview Mac Edition-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CMUPreview Mac Edition-Info.plist"; sourceTree = "<group>"; };
+		CD91C11D1B350297008C2650 /* CMUAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CMUAppDelegate.h; sourceTree = "<group>"; };
+		CD91C11E1B350297008C2650 /* CMUAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CMUAppDelegate.m; sourceTree = "<group>"; };
+		CD91C1211B350297008C2650 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		CD91C1281B350298008C2650 /* CMUPreview Mac EditionTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CMUPreview Mac EditionTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD91C1291B350298008C2650 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		CDA1EAE31B5720A80016196C /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
+		CDA1EAE71B578ED30016196C /* CITS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = CITS.pdf; sourceTree = "<group>"; };
+		CDA1EAE91B58C5400016196C /* CMUG.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = CMUG.pdf; sourceTree = "<group>"; };
+		CDA1EB451B5A30500016196C /* ArchS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ArchS.pdf; sourceTree = "<group>"; };
+		CDA1EB461B5A30500016196C /* ArtS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ArtS.pdf; sourceTree = "<group>"; };
+		CDA1EB471B5A30500016196C /* TEPS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = TEPS.pdf; sourceTree = "<group>"; };
+		CDA1EB481B5A30500016196C /* ISS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ISS.pdf; sourceTree = "<group>"; };
+		CDA1EB491B5A30500016196C /* DesignS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = DesignS.pdf; sourceTree = "<group>"; };
+		CDA1EB4A1B5A30500016196C /* MusicS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = MusicS.pdf; sourceTree = "<group>"; };
+		CDA1EB4B1B5A30500016196C /* DramS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = DramS.pdf; sourceTree = "<group>"; };
+		CDA1EB4C1B5A30500016196C /* SCSS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = SCSS.pdf; sourceTree = "<group>"; };
+		CDA1EB4D1B5A30500016196C /* DCS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = DCS.pdf; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CD91C1041B350295008C2650 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDA1EAE41B5720A80016196C /* Quartz.framework in Frameworks */,
+				CD91C10C1B350295008C2650 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD91C1241B350298008C2650 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD91C12A1B350298008C2650 /* SenTestingKit.framework in Frameworks */,
+				CD91C12B1B350298008C2650 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CD91C0FC1B350294008C2650 = {
+			isa = PBXGroup;
+			children = (
+				CD91C1111B350295008C2650 /* CMUPreview Mac Edition */,
+				CD53A45B1B5CF80A004FBC2C /* CMUPreview Mac EditionTests */,
+				CD91C10A1B350295008C2650 /* Frameworks */,
+				CD91C1081B350295008C2650 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CD91C1081B350295008C2650 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CD91C1071B350295008C2650 /* CMUPreview Mac Edition.app */,
+				CD91C1281B350298008C2650 /* CMUPreview Mac EditionTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CD91C10A1B350295008C2650 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CDA1EAE31B5720A80016196C /* Quartz.framework */,
+				CD91C10B1B350295008C2650 /* Cocoa.framework */,
+				CD91C1291B350298008C2650 /* SenTestingKit.framework */,
+				CD91C10D1B350295008C2650 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CD91C10D1B350295008C2650 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CD91C10E1B350295008C2650 /* AppKit.framework */,
+				CD91C10F1B350295008C2650 /* CoreData.framework */,
+				CD91C1101B350295008C2650 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		CD91C1111B350295008C2650 /* CMUPreview Mac Edition */ = {
+			isa = PBXGroup;
+			children = (
+				CD91C11D1B350297008C2650 /* CMUAppDelegate.h */,
+				CD91C11E1B350297008C2650 /* CMUAppDelegate.m */,
+				CD91C1201B350297008C2650 /* MainMenu.xib */,
+				CD53A4461B5CF340004FBC2C /* MCSS.pdf */,
+				CD53A4471B5CF340004FBC2C /* Untitled.png */,
+				CDA1EAE91B58C5400016196C /* CMUG.pdf */,
+				CDA1EAE71B578ED30016196C /* CITS.pdf */,
+				CDA1EB461B5A30500016196C /* ArtS.pdf */,
+				CDA1EB471B5A30500016196C /* TEPS.pdf */,
+				CDA1EB481B5A30500016196C /* ISS.pdf */,
+				CDA1EB491B5A30500016196C /* DesignS.pdf */,
+				CDA1EB4A1B5A30500016196C /* MusicS.pdf */,
+				CDA1EB4B1B5A30500016196C /* DramS.pdf */,
+				CDA1EB451B5A30500016196C /* ArchS.pdf */,
+				CDA1EB4C1B5A30500016196C /* SCSS.pdf */,
+				CDA1EB4D1B5A30500016196C /* DCS.pdf */,
+				CD2C698E1B5A72E600C2170B /* BXAS.pdf */,
+				CD91C1121B350295008C2650 /* Supporting Files */,
+			);
+			path = "CMUPreview Mac Edition";
+			sourceTree = "<group>";
+		};
+		CD91C1121B350295008C2650 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD91C1131B350295008C2650 /* CMUPreview Mac Edition-Info.plist */,
+				CD53A45D1B5CF88C004FBC2C /* InfoPlist.strings */,
+				CD53A44A1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Info.plist */,
+				CD53A4531B5CF57F004FBC2C /* main.m */,
+				CD53A44B1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Prefix.pch */,
+				CD53A4601B5CF8B8004FBC2C /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CD91C1061B350295008C2650 /* CMUPreview Mac Edition */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD91C1391B350298008C2650 /* Build configuration list for PBXNativeTarget "CMUPreview Mac Edition" */;
+			buildPhases = (
+				CD91C1031B350295008C2650 /* Sources */,
+				CD91C1041B350295008C2650 /* Frameworks */,
+				CD91C1051B350295008C2650 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CMUPreview Mac Edition";
+			productName = "CMUPreview Mac Edition";
+			productReference = CD91C1071B350295008C2650 /* CMUPreview Mac Edition.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CD91C1271B350298008C2650 /* CMUPreview Mac EditionTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD91C13C1B350298008C2650 /* Build configuration list for PBXNativeTarget "CMUPreview Mac EditionTests" */;
+			buildPhases = (
+				CD91C1231B350298008C2650 /* Sources */,
+				CD91C1241B350298008C2650 /* Frameworks */,
+				CD91C1251B350298008C2650 /* Resources */,
+				CD91C1261B350298008C2650 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CD91C12D1B350298008C2650 /* PBXTargetDependency */,
+			);
+			name = "CMUPreview Mac EditionTests";
+			productName = "CMUPreview Mac EditionTests";
+			productReference = CD91C1281B350298008C2650 /* CMUPreview Mac EditionTests.octest */;
+			productType = "com.apple.product-type.bundle.ocunit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CD91C0FE1B350294008C2650 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastTestingUpgradeCheck = 0700;
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = CD91C1011B350294008C2650 /* Build configuration list for PBXProject "CMUPreview Mac Edition" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CD91C0FC1B350294008C2650;
+			productRefGroup = CD91C1081B350295008C2650 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CD91C1061B350295008C2650 /* CMUPreview Mac Edition */,
+				CD91C1271B350298008C2650 /* CMUPreview Mac EditionTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CD91C1051B350295008C2650 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDA1EB551B5A30500016196C /* SCSS.pdf in Resources */,
+				CD53A45C1B5CF80B004FBC2C /* CMUPreview Mac EditionTests in Resources */,
+				CD2C698F1B5A72E600C2170B /* BXAS.pdf in Resources */,
+				CDA1EB501B5A30500016196C /* TEPS.pdf in Resources */,
+				CDA1EB541B5A30500016196C /* DramS.pdf in Resources */,
+				CD53A4491B5CF340004FBC2C /* Untitled.png in Resources */,
+				CD53A4481B5CF340004FBC2C /* MCSS.pdf in Resources */,
+				CDA1EB4E1B5A30500016196C /* ArchS.pdf in Resources */,
+				CDA1EB521B5A30500016196C /* DesignS.pdf in Resources */,
+				CD53A45F1B5CF88C004FBC2C /* InfoPlist.strings in Resources */,
+				CDA1EAEA1B58C5400016196C /* CMUG.pdf in Resources */,
+				CDA1EB511B5A30500016196C /* ISS.pdf in Resources */,
+				CD53A44C1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Info.plist in Resources */,
+				CDA1EB561B5A30500016196C /* DCS.pdf in Resources */,
+				CD53A4611B5CF8B8004FBC2C /* Credits.rtf in Resources */,
+				CD91C1221B350297008C2650 /* MainMenu.xib in Resources */,
+				CDA1EAE81B578ED30016196C /* CITS.pdf in Resources */,
+				CDA1EB531B5A30500016196C /* MusicS.pdf in Resources */,
+				CDA1EB4F1B5A30500016196C /* ArtS.pdf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD91C1251B350298008C2650 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		CD91C1261B350298008C2650 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CD91C1031B350295008C2650 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD53A4541B5CF57F004FBC2C /* main.m in Sources */,
+				CD91C11F1B350297008C2650 /* CMUAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD91C1231B350298008C2650 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CD91C12D1B350298008C2650 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CD91C1061B350295008C2650 /* CMUPreview Mac Edition */;
+			targetProxy = CD91C12C1B350298008C2650 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CD53A45D1B5CF88C004FBC2C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD53A45E1B5CF88C004FBC2C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CD91C1201B350297008C2650 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD91C1211B350297008C2650 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CD91C1371B350298008C2650 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		CD91C1381B350298008C2650 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		CD91C13A1B350298008C2650 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CMUPreview Mac Edition/CMUPreview Mac Edition-Prefix.pch";
+				INFOPLIST_FILE = "CMUPreview Mac Edition/CMUPreview Mac Edition-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		CD91C13B1B350298008C2650 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CMUPreview Mac Edition/CMUPreview Mac Edition-Prefix.pch";
+				INFOPLIST_FILE = "CMUPreview Mac Edition/CMUPreview Mac Edition-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		CD91C13D1B350298008C2650 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CMUPreview Mac Edition.app/Contents/MacOS/CMUPreview Mac Edition";
+				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CMUPreview Mac Edition/CMUPreview Mac Edition-Prefix.pch";
+				INFOPLIST_FILE = "CMUPreview Mac EditionTests/CMUPreview Mac EditionTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		CD91C13E1B350298008C2650 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CMUPreview Mac Edition.app/Contents/MacOS/CMUPreview Mac Edition";
+				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CMUPreview Mac Edition/CMUPreview Mac Edition-Prefix.pch";
+				INFOPLIST_FILE = "CMUPreview Mac EditionTests/CMUPreview Mac EditionTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD91C1011B350294008C2650 /* Build configuration list for PBXProject "CMUPreview Mac Edition" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD91C1371B350298008C2650 /* Debug */,
+				CD91C1381B350298008C2650 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD91C1391B350298008C2650 /* Build configuration list for PBXNativeTarget "CMUPreview Mac Edition" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD91C13A1B350298008C2650 /* Debug */,
+				CD91C13B1B350298008C2650 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD91C13C1B350298008C2650 /* Build configuration list for PBXNativeTarget "CMUPreview Mac EditionTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD91C13D1B350298008C2650 /* Debug */,
+				CD91C13E1B350298008C2650 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD91C0FE1B350294008C2650 /* Project object */;
+}
