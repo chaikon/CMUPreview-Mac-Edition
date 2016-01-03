@@ -15,10 +15,10 @@
 		CD53A45C1B5CF80B004FBC2C /* CMUPreview Mac EditionTests in Resources */ = {isa = PBXBuildFile; fileRef = CD53A45B1B5CF80A004FBC2C /* CMUPreview Mac EditionTests */; };
 		CD53A45F1B5CF88C004FBC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD53A45D1B5CF88C004FBC2C /* InfoPlist.strings */; };
 		CD53A4611B5CF8B8004FBC2C /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = CD53A4601B5CF8B8004FBC2C /* Credits.rtf */; };
+		CD70DC191C2A3EA60046D23F /* gue.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD70DC181C2A3EA60046D23F /* gue.plist */; };
 		CD91C10C1B350295008C2650 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD91C10B1B350295008C2650 /* Cocoa.framework */; };
 		CD91C11F1B350297008C2650 /* CMUAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CD91C11E1B350297008C2650 /* CMUAppDelegate.m */; };
 		CD91C1221B350297008C2650 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD91C1201B350297008C2650 /* MainMenu.xib */; };
-		CD91C12A1B350298008C2650 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD91C1291B350298008C2650 /* SenTestingKit.framework */; };
 		CD91C12B1B350298008C2650 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD91C10B1B350295008C2650 /* Cocoa.framework */; };
 		CDA1EAE41B5720A80016196C /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDA1EAE31B5720A80016196C /* Quartz.framework */; };
 		CDA1EAE81B578ED30016196C /* CITS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EAE71B578ED30016196C /* CITS.pdf */; };
@@ -32,6 +32,21 @@
 		CDA1EB541B5A30500016196C /* DramS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB4B1B5A30500016196C /* DramS.pdf */; };
 		CDA1EB551B5A30500016196C /* SCSS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB4C1B5A30500016196C /* SCSS.pdf */; };
 		CDA1EB561B5A30500016196C /* DCS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDA1EB4D1B5A30500016196C /* DCS.pdf */; };
+		CDAF543F1C2F7AF700959443 /* PDF_links.plist in Resources */ = {isa = PBXBuildFile; fileRef = CDAF543E1C2F7AF700959443 /* PDF_links.plist */; };
+		CDAF544F1C2F889300959443 /* Carnegie Mellon BXA Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54411C2F889300959443 /* Carnegie Mellon BXA Fact Sheet Fall 2015.pdf */; };
+		CDAF54501C2F889400959443 /* Carnegie Mellon College of Engineering Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54421C2F889300959443 /* Carnegie Mellon College of Engineering Fact Sheet Fall 2015.pdf */; };
+		CDAF54511C2F889400959443 /* Carnegie Mellon Computer Science Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54431C2F889300959443 /* Carnegie Mellon Computer Science Fact Sheet Fall 2015.pdf */; };
+		CDAF54521C2F889400959443 /* Carnegie Mellon Dietrich Fact Sheet Fall 2015 Updated.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54441C2F889300959443 /* Carnegie Mellon Dietrich Fact Sheet Fall 2015 Updated.pdf */; };
+		CDAF54531C2F889400959443 /* Carnegie Mellon General Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54451C2F889300959443 /* Carnegie Mellon General Fact Sheet Fall 2015.pdf */; };
+		CDAF54541C2F889400959443 /* Carnegie Mellon IS Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54461C2F889300959443 /* Carnegie Mellon IS Fact Sheet Fall 2015.pdf */; };
+		CDAF54551C2F889400959443 /* Carnegie Mellon Makers Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54471C2F889300959443 /* Carnegie Mellon Makers Fact Sheet Fall 2015.pdf */; };
+		CDAF54561C2F889400959443 /* Carnegie Mellon Mellon College of Science Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54481C2F889300959443 /* Carnegie Mellon Mellon College of Science Fact Sheet Fall 2015.pdf */; };
+		CDAF54571C2F889400959443 /* Carnegie Mellon School of Arch Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF54491C2F889300959443 /* Carnegie Mellon School of Arch Fact Sheet Fall 2015.pdf */; };
+		CDAF54581C2F889400959443 /* Carnegie Mellon School of Art Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF544A1C2F889300959443 /* Carnegie Mellon School of Art Fact Sheet Fall 2015.pdf */; };
+		CDAF54591C2F889400959443 /* Carnegie Mellon School of Design Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF544B1C2F889300959443 /* Carnegie Mellon School of Design Fact Sheet Fall 2015.pdf */; };
+		CDAF545A1C2F889400959443 /* Carnegie Mellon School of Drama Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF544C1C2F889300959443 /* Carnegie Mellon School of Drama Fact Sheet Fall 2015.pdf */; };
+		CDAF545B1C2F889400959443 /* Carnegie Mellon School of Music Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF544D1C2F889300959443 /* Carnegie Mellon School of Music Fact Sheet Fall 2015.pdf */; };
+		CDAF545C1C2F889400959443 /* Carnegie Mellon Tepper Fact Sheet Fall 2015.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CDAF544E1C2F889300959443 /* Carnegie Mellon Tepper Fact Sheet Fall 2015.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +69,7 @@
 		CD53A45B1B5CF80A004FBC2C /* CMUPreview Mac EditionTests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CMUPreview Mac EditionTests"; sourceTree = "<group>"; };
 		CD53A45E1B5CF88C004FBC2C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CD53A4601B5CF8B8004FBC2C /* Credits.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Credits.rtf; sourceTree = "<group>"; };
+		CD70DC181C2A3EA60046D23F /* gue.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = gue.plist; sourceTree = "<group>"; };
 		CD91C1071B350295008C2650 /* CMUPreview Mac Edition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CMUPreview Mac Edition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD91C10B1B350295008C2650 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		CD91C10E1B350295008C2650 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -63,8 +79,7 @@
 		CD91C11D1B350297008C2650 /* CMUAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CMUAppDelegate.h; sourceTree = "<group>"; };
 		CD91C11E1B350297008C2650 /* CMUAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CMUAppDelegate.m; sourceTree = "<group>"; };
 		CD91C1211B350297008C2650 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		CD91C1281B350298008C2650 /* CMUPreview Mac EditionTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CMUPreview Mac EditionTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD91C1291B350298008C2650 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		CD91C1281B350298008C2650 /* CMUPreview Mac Edition.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CMUPreview Mac Edition.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDA1EAE31B5720A80016196C /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
 		CDA1EAE71B578ED30016196C /* CITS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = CITS.pdf; sourceTree = "<group>"; };
 		CDA1EAE91B58C5400016196C /* CMUG.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = CMUG.pdf; sourceTree = "<group>"; };
@@ -77,6 +92,21 @@
 		CDA1EB4B1B5A30500016196C /* DramS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = DramS.pdf; sourceTree = "<group>"; };
 		CDA1EB4C1B5A30500016196C /* SCSS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = SCSS.pdf; sourceTree = "<group>"; };
 		CDA1EB4D1B5A30500016196C /* DCS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = DCS.pdf; sourceTree = "<group>"; };
+		CDAF543E1C2F7AF700959443 /* PDF_links.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PDF_links.plist; sourceTree = "<group>"; };
+		CDAF54411C2F889300959443 /* Carnegie Mellon BXA Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon BXA Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF54421C2F889300959443 /* Carnegie Mellon College of Engineering Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon College of Engineering Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF54431C2F889300959443 /* Carnegie Mellon Computer Science Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon Computer Science Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF54441C2F889300959443 /* Carnegie Mellon Dietrich Fact Sheet Fall 2015 Updated.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon Dietrich Fact Sheet Fall 2015 Updated.pdf"; sourceTree = "<group>"; };
+		CDAF54451C2F889300959443 /* Carnegie Mellon General Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon General Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF54461C2F889300959443 /* Carnegie Mellon IS Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon IS Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF54471C2F889300959443 /* Carnegie Mellon Makers Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon Makers Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF54481C2F889300959443 /* Carnegie Mellon Mellon College of Science Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon Mellon College of Science Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF54491C2F889300959443 /* Carnegie Mellon School of Arch Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon School of Arch Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF544A1C2F889300959443 /* Carnegie Mellon School of Art Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon School of Art Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF544B1C2F889300959443 /* Carnegie Mellon School of Design Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon School of Design Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF544C1C2F889300959443 /* Carnegie Mellon School of Drama Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon School of Drama Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF544D1C2F889300959443 /* Carnegie Mellon School of Music Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon School of Music Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
+		CDAF544E1C2F889300959443 /* Carnegie Mellon Tepper Fact Sheet Fall 2015.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Carnegie Mellon Tepper Fact Sheet Fall 2015.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +123,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD91C12A1B350298008C2650 /* SenTestingKit.framework in Frameworks */,
 				CD91C12B1B350298008C2650 /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -115,7 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				CD91C1071B350295008C2650 /* CMUPreview Mac Edition.app */,
-				CD91C1281B350298008C2650 /* CMUPreview Mac EditionTests.octest */,
+				CD91C1281B350298008C2650 /* CMUPreview Mac Edition.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -125,7 +154,6 @@
 			children = (
 				CDA1EAE31B5720A80016196C /* Quartz.framework */,
 				CD91C10B1B350295008C2650 /* Cocoa.framework */,
-				CD91C1291B350298008C2650 /* SenTestingKit.framework */,
 				CD91C10D1B350295008C2650 /* Other Frameworks */,
 			);
 			name = Frameworks;
@@ -147,6 +175,44 @@
 				CD91C11D1B350297008C2650 /* CMUAppDelegate.h */,
 				CD91C11E1B350297008C2650 /* CMUAppDelegate.m */,
 				CD91C1201B350297008C2650 /* MainMenu.xib */,
+				CDAF543E1C2F7AF700959443 /* PDF_links.plist */,
+				CDAF54411C2F889300959443 /* Carnegie Mellon BXA Fact Sheet Fall 2015.pdf */,
+				CDAF54421C2F889300959443 /* Carnegie Mellon College of Engineering Fact Sheet Fall 2015.pdf */,
+				CDAF54431C2F889300959443 /* Carnegie Mellon Computer Science Fact Sheet Fall 2015.pdf */,
+				CDAF54441C2F889300959443 /* Carnegie Mellon Dietrich Fact Sheet Fall 2015 Updated.pdf */,
+				CDAF54451C2F889300959443 /* Carnegie Mellon General Fact Sheet Fall 2015.pdf */,
+				CDAF54461C2F889300959443 /* Carnegie Mellon IS Fact Sheet Fall 2015.pdf */,
+				CDAF54471C2F889300959443 /* Carnegie Mellon Makers Fact Sheet Fall 2015.pdf */,
+				CDAF54481C2F889300959443 /* Carnegie Mellon Mellon College of Science Fact Sheet Fall 2015.pdf */,
+				CDAF54491C2F889300959443 /* Carnegie Mellon School of Arch Fact Sheet Fall 2015.pdf */,
+				CDAF544A1C2F889300959443 /* Carnegie Mellon School of Art Fact Sheet Fall 2015.pdf */,
+				CDAF544B1C2F889300959443 /* Carnegie Mellon School of Design Fact Sheet Fall 2015.pdf */,
+				CDAF544C1C2F889300959443 /* Carnegie Mellon School of Drama Fact Sheet Fall 2015.pdf */,
+				CDAF544D1C2F889300959443 /* Carnegie Mellon School of Music Fact Sheet Fall 2015.pdf */,
+				CDAF544E1C2F889300959443 /* Carnegie Mellon Tepper Fact Sheet Fall 2015.pdf */,
+				CD91C1121B350295008C2650 /* Supporting Files */,
+			);
+			path = "CMUPreview Mac Edition";
+			sourceTree = "<group>";
+		};
+		CD91C1121B350295008C2650 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CDAF54401C2F879700959443 /* 2014 PDFs */,
+				CD91C1131B350295008C2650 /* CMUPreview Mac Edition-Info.plist */,
+				CD53A45D1B5CF88C004FBC2C /* InfoPlist.strings */,
+				CD70DC181C2A3EA60046D23F /* gue.plist */,
+				CD53A44A1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Info.plist */,
+				CD53A4531B5CF57F004FBC2C /* main.m */,
+				CD53A44B1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Prefix.pch */,
+				CD53A4601B5CF8B8004FBC2C /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CDAF54401C2F879700959443 /* 2014 PDFs */ = {
+			isa = PBXGroup;
+			children = (
 				CD53A4461B5CF340004FBC2C /* MCSS.pdf */,
 				CD53A4471B5CF340004FBC2C /* Untitled.png */,
 				CDA1EAE91B58C5400016196C /* CMUG.pdf */,
@@ -161,22 +227,8 @@
 				CDA1EB4C1B5A30500016196C /* SCSS.pdf */,
 				CDA1EB4D1B5A30500016196C /* DCS.pdf */,
 				CD2C698E1B5A72E600C2170B /* BXAS.pdf */,
-				CD91C1121B350295008C2650 /* Supporting Files */,
 			);
-			path = "CMUPreview Mac Edition";
-			sourceTree = "<group>";
-		};
-		CD91C1121B350295008C2650 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				CD91C1131B350295008C2650 /* CMUPreview Mac Edition-Info.plist */,
-				CD53A45D1B5CF88C004FBC2C /* InfoPlist.strings */,
-				CD53A44A1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Info.plist */,
-				CD53A4531B5CF57F004FBC2C /* main.m */,
-				CD53A44B1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Prefix.pch */,
-				CD53A4601B5CF8B8004FBC2C /* Credits.rtf */,
-			);
-			name = "Supporting Files";
+			name = "2014 PDFs";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,8 +267,8 @@
 			);
 			name = "CMUPreview Mac EditionTests";
 			productName = "CMUPreview Mac EditionTests";
-			productReference = CD91C1281B350298008C2650 /* CMUPreview Mac EditionTests.octest */;
-			productType = "com.apple.product-type.bundle.ocunit-test";
+			productReference = CD91C1281B350298008C2650 /* CMUPreview Mac Edition.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
@@ -224,7 +276,7 @@
 		CD91C0FE1B350294008C2650 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastTestingUpgradeCheck = 0700;
+				LastTestingUpgradeCheck = 0720;
 				LastUpgradeCheck = 0420;
 			};
 			buildConfigurationList = CD91C1011B350294008C2650 /* Build configuration list for PBXProject "CMUPreview Mac Edition" */;
@@ -251,22 +303,38 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDA1EB551B5A30500016196C /* SCSS.pdf in Resources */,
+				CDAF54551C2F889400959443 /* Carnegie Mellon Makers Fact Sheet Fall 2015.pdf in Resources */,
 				CD53A45C1B5CF80B004FBC2C /* CMUPreview Mac EditionTests in Resources */,
 				CD2C698F1B5A72E600C2170B /* BXAS.pdf in Resources */,
 				CDA1EB501B5A30500016196C /* TEPS.pdf in Resources */,
 				CDA1EB541B5A30500016196C /* DramS.pdf in Resources */,
+				CDAF545A1C2F889400959443 /* Carnegie Mellon School of Drama Fact Sheet Fall 2015.pdf in Resources */,
 				CD53A4491B5CF340004FBC2C /* Untitled.png in Resources */,
+				CDAF54501C2F889400959443 /* Carnegie Mellon College of Engineering Fact Sheet Fall 2015.pdf in Resources */,
+				CDAF545B1C2F889400959443 /* Carnegie Mellon School of Music Fact Sheet Fall 2015.pdf in Resources */,
 				CD53A4481B5CF340004FBC2C /* MCSS.pdf in Resources */,
 				CDA1EB4E1B5A30500016196C /* ArchS.pdf in Resources */,
 				CDA1EB521B5A30500016196C /* DesignS.pdf in Resources */,
 				CD53A45F1B5CF88C004FBC2C /* InfoPlist.strings in Resources */,
 				CDA1EAEA1B58C5400016196C /* CMUG.pdf in Resources */,
+				CDAF54561C2F889400959443 /* Carnegie Mellon Mellon College of Science Fact Sheet Fall 2015.pdf in Resources */,
 				CDA1EB511B5A30500016196C /* ISS.pdf in Resources */,
+				CDAF54521C2F889400959443 /* Carnegie Mellon Dietrich Fact Sheet Fall 2015 Updated.pdf in Resources */,
+				CDAF544F1C2F889300959443 /* Carnegie Mellon BXA Fact Sheet Fall 2015.pdf in Resources */,
 				CD53A44C1B5CF4EA004FBC2C /* CMUPreview Mac Edition-Info.plist in Resources */,
 				CDA1EB561B5A30500016196C /* DCS.pdf in Resources */,
+				CDAF54571C2F889400959443 /* Carnegie Mellon School of Arch Fact Sheet Fall 2015.pdf in Resources */,
 				CD53A4611B5CF8B8004FBC2C /* Credits.rtf in Resources */,
+				CDAF543F1C2F7AF700959443 /* PDF_links.plist in Resources */,
+				CDAF54531C2F889400959443 /* Carnegie Mellon General Fact Sheet Fall 2015.pdf in Resources */,
 				CD91C1221B350297008C2650 /* MainMenu.xib in Resources */,
+				CDAF54581C2F889400959443 /* Carnegie Mellon School of Art Fact Sheet Fall 2015.pdf in Resources */,
+				CD70DC191C2A3EA60046D23F /* gue.plist in Resources */,
+				CDAF545C1C2F889400959443 /* Carnegie Mellon Tepper Fact Sheet Fall 2015.pdf in Resources */,
 				CDA1EAE81B578ED30016196C /* CITS.pdf in Resources */,
+				CDAF54591C2F889400959443 /* Carnegie Mellon School of Design Fact Sheet Fall 2015.pdf in Resources */,
+				CDAF54511C2F889400959443 /* Carnegie Mellon Computer Science Fact Sheet Fall 2015.pdf in Resources */,
+				CDAF54541C2F889400959443 /* Carnegie Mellon IS Fact Sheet Fall 2015.pdf in Resources */,
 				CDA1EB531B5A30500016196C /* MusicS.pdf in Resources */,
 				CDA1EB4F1B5A30500016196C /* ArtS.pdf in Resources */,
 			);
@@ -364,7 +432,7 @@
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
@@ -384,7 +452,7 @@
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -396,7 +464,7 @@
 				GCC_PREFIX_HEADER = "CMUPreview Mac Edition/CMUPreview Mac Edition-Prefix.pch";
 				INFOPLIST_FILE = "CMUPreview Mac Edition/CMUPreview Mac Edition-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.5;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "CMUPreview Mac Edition";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -408,7 +476,7 @@
 				GCC_PREFIX_HEADER = "CMUPreview Mac Edition/CMUPreview Mac Edition-Prefix.pch";
 				INFOPLIST_FILE = "CMUPreview Mac Edition/CMUPreview Mac Edition-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.5;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "CMUPreview Mac Edition";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -417,13 +485,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CMUPreview Mac Edition.app/Contents/MacOS/CMUPreview Mac Edition";
-				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CMUPreview Mac Edition/CMUPreview Mac Edition-Prefix.pch";
 				INFOPLIST_FILE = "CMUPreview Mac EditionTests/CMUPreview Mac EditionTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "CMUPreview Mac Edition";
 				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
 		};
@@ -431,13 +498,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CMUPreview Mac Edition.app/Contents/MacOS/CMUPreview Mac Edition";
-				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CMUPreview Mac Edition/CMUPreview Mac Edition-Prefix.pch";
 				INFOPLIST_FILE = "CMUPreview Mac EditionTests/CMUPreview Mac EditionTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "CMUPreview Mac Edition";
 				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
 		};

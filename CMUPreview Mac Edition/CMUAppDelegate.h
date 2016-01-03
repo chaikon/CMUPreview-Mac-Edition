@@ -11,6 +11,8 @@
 
 @interface CMUAppDelegate : NSObject <NSApplicationDelegate>
 
+@property (assign) IBOutlet NSWindow *guestListWindow;
+
 @property (assign) IBOutlet NSWindow *window;
 @property (assign) IBOutlet NSView *initialview;
 @property (assign) IBOutlet NSView *newview;
@@ -22,10 +24,18 @@
 @property (assign) IBOutlet PDFView *pdfv;
 @property (assign) IBOutlet NSView *CmuProgramPDF;
 
+@property (assign) IBOutlet NSTextField *gbookNameField;
+@property (assign) IBOutlet NSTextField *gbootAddField;
+@property (assign) IBOutlet NSTextField *gbookCommentField;
+
+@property (assign) IBOutlet NSTextView *gbookTView;
+
 - (IBAction)gotoGbook:(id)sender;
 - (IBAction)goBack:(id)sender;
 - (IBAction)gotoGenInfo:(id)sender;
+- (IBAction)seeGuestList:(id)sender;
 
+- (IBAction)submitGuestListEntry:(id)sender;
 
 
 - (IBAction)MCS:(id)sender;

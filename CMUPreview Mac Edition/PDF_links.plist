@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CMU General</key>
+	<string>Carnegie Mellon General Fact Sheet Fall 2015</string>
+	<key>BXA Programs</key>
+	<string>Carnegie Mellon BXA Fact Sheet Fall 2015</string>
+	<key>CFA - School of Drama</key>
+	<string>Carnegie Mellon School of Drama Fact Sheet Fall 2015</string>
+	<key>CFA - School of Architecture</key>
+	<string>Carnegie Mellon School of Arch Fact Sheet Fall 2015</string>
+	<key>CFA - School of Art</key>
+	<string>Carnegie Mellon School of Art Fact Sheet Fall 2015</string>
+	<key>CFA - School of Music</key>
+	<string>Carnegie Mellon School of Music Fact Sheet Fall 2015</string>
+	<key>CFA - School of Design</key>
+	<string>Carnegie Mellon School of Design Fact Sheet Fall 2015</string>
+	<key>Dietrich</key>
+	<string>Carnegie Mellon Dietrich Fact Sheet Fall 2015 Updated</string>
+	<key>Tepper</key>
+	<string>Carnegie Mellon Tepper Fact Sheet Fall 2015</string>
+	<key>Information Systems</key>
+	<string>Carnegie Mellon IS Fact Sheet Fall 2015</string>
+	<key>SCS</key>
+	<string>Carnegie Mellon Computer Science Fact Sheet Fall 2015</string>
+	<key>CIT</key>
+	<string>Carnegie Mellon College of Engineering Fact Sheet Fall 2015</string>
+	<key>MCS</key>
+	<string>Carnegie Mellon Mellon College of Science Fact Sheet Fall 2015</string>
+</dict>
+</plist>

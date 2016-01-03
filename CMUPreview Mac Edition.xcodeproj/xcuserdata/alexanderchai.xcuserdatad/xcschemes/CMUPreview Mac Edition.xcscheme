@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CD91C1271B350298008C2650"
-               BuildableName = "CMUPreview Mac EditionTests.octest"
+               BuildableName = "CMUPreview Mac Edition.xctest"
                BlueprintName = "CMUPreview Mac EditionTests"
                ReferencedContainer = "container:CMUPreview Mac Edition.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CD91C1271B350298008C2650"
-               BuildableName = "CMUPreview Mac EditionTests.octest"
+               BuildableName = "CMUPreview Mac Edition.xctest"
                BlueprintName = "CMUPreview Mac EditionTests"
                ReferencedContainer = "container:CMUPreview Mac Edition.xcodeproj">
             </BuildableReference>
